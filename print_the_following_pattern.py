@@ -8,3 +8,6 @@
 
 for number in range(6):
     for pattern in range(number):
+        print(number, end = " ")
+
+    print("\n")
