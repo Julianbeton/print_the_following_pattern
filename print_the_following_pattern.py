@@ -6,3 +6,5 @@
 # 4 4 4 4 
 # 5 5 5 5 5
 
+for number in range(6):
+    for pattern in range(number):
