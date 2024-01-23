@@ -8,6 +8,6 @@
 
 for number in range(6):
     for pattern in range(number):
-        print(number, end = " ")
+        print("\033[1;32;40m", number, end = " ")
 
     print("\n")
